@@ -1,1 +1,1 @@
-# CartBalance MachineLearnin Fuzzy C Mean
+# CartBalance Machine Learning Fuzzy C Mean
